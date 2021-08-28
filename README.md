@@ -11,9 +11,9 @@
 <hr/>
 
 
-- 🔭 I’m currently working on 5 Seconds Media.
+- 🔭 I’m currently working in "5 Seconds Media" company.
 - 🌱 I’m currently learning -> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>. <br/><br/>
-- 👯 I’m looking to collaborate on flash-cards app(my side project).
+- 👯 I’m looking to collaborate on <a href="https://github.com/Reckit075/flashcards_client" target="_blank">flash-cards app</a> (my side project).
 <hr/>
 
 🔧 **languages and tools:**  
