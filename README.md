@@ -11,14 +11,31 @@
 <hr/>
 
 
-- 🔭 I’m currently working in <a href="https://openform.pl/">Openform</a> company. <br/><br/>
-- 🌱 I’m currently learning -> <a href="https://nestjs.com/" target="_blank"> <img align="center" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+nestjs-1324451393575753824.png" alt="nestJs" width="40" height="40"/> </a>. <br/><br/>
-- 👯 I’m looking to collaborate on <a href="https://github.com/Reckit075/flashcards_client" target="_blank">flash-cards app</a> (my side project).
+- 🔭 I’m currently working in <a href="https://openform.pl/">Openform</a> company. <br/>
+- 🌱 I’m currently learning -> <a href="https://nestjs.com/" target="_blank"> <img align="center" src="https://nx.dev/documentation/shared/jest-logo.png" alt="jest" width="30" height="30"/> </a>. <br/>
+- 👯 I’m looking to collaborate on <a href="https://github.com/Reckit075/flashcards_client" target="_blank">flash-cards app</a> (my side project). <br/>
+- ⚡ Fun fact: I love travelling :airplane:
 <hr/>
 
 🔧 **languages and tools:**  
 <br/>
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![sass](https://img.icons8.com/color/30/sass.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![TypeScript](https://img.icons8.com/color/30/typescript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![ReactJS](https://img.icons8.com/office/30/000000/react.png)![Redux](https://img.icons8.com/color/30/redux.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Git](https://img.icons8.com/color/30/git.png)![Figma](https://img.icons8.com/color/30/figma.png)
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<br/>
+
+<!-- ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![sass](https://img.icons8.com/color/30/sass.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![TypeScript](https://img.icons8.com/color/30/typescript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![ReactJS](https://img.icons8.com/office/30/000000/react.png)![Redux](https://img.icons8.com/color/30/redux.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Git](https://img.icons8.com/color/30/git.png)![Figma](https://img.icons8.com/color/30/figma.png) -->
 <hr/>
 
 
@@ -26,3 +43,5 @@
 📈 my github stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=reckit075&show_icons=true&theme=gotham" alt="reckit075" />
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=reckit075)
