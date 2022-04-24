@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working in <a href="https://openform.pl/">Openform</a> company. <br/>
-- 🌱 I’m currently learning -> <a href="https://nestjs.com/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript image" width="25" height="25"/> </a>. <br/>
+- 🌱 I’m currently learning -> <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript image" width="25" height="25"/> </a>. <br/>
 - 👯 I’m looking to collaborate on <a href="https://github.com/Reckit075/flashcards_client" target="_blank">flash-cards app</a> (my side project). <br/>
 - ⚡ Fun fact: I love travelling :airplane:
 <hr/>
