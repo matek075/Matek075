@@ -43,6 +43,4 @@
 
 📈 my github stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=reckit075&show_icons=true&theme=gotham" alt="reckit075" /> </br>
-  
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Reckit075.visitor-badge"/>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=reckit075&show_icons=true&theme=gotham" alt="reckit075" />
