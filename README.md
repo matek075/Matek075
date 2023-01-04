@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working in <a href="https://il.linkedin.com/company/gymber">Gymber</a>. <br/>
-- 🌱 I’m currently learning -> <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript image" width="25" height="25"/> </a>. <br/>
+- 🌱 I’m currently learning -> <a href="https://www.typescriptlang.org/](https://kotlinlang.org/docs/home.html)" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin logo image" width="20" height="20"/> </a>. <br/>
 - ⚡ Fun fact: I love travelling :airplane:
 <hr/>
 
