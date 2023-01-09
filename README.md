@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working in <a href="https://il.linkedin.com/company/gymber">Gymber</a>. <br/>
-- 🌱 I’m currently learning -> <a href="https://www.typescriptlang.org/](https://kotlinlang.org/docs/home.html)" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin logo image" width="20" height="20"/> </a>. <br/>
+- 🌱 I’m currently learning -> react native <a href="https://reactnative.dev/" target="_blank"> <img align="center" src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png?width=256&s=3f7493995143d3cf40b1fedc582607cea194b579" alt="react native logo image" width="20" height="20"/> </a>. <br/>
 - ⚡ Fun fact: I love travelling :airplane:
 <hr/>
 
