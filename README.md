@@ -42,6 +42,6 @@
 
 
 📈 my github stats <br>
-![Reckit's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reckit075&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+![Reckit's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reckit075&show_icons=true&hide=stars,contribs&theme=dracula&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=reckit075&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
