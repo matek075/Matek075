@@ -32,8 +32,9 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="nestJS" width="26px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" style="padding-right:10px;" />
-<img align="left" alt="Typeorm" width="26px" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="nestJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055" style="padding-right:10px;" />
+<img align="left" alt="Typeorm" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2I5pXsb1_FJr3aS_8q71lpwYoVpR-_WGOQ&s" style="padding-right:10px;" />
+<img align="left" alt="Jest" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" style="padding-right:10px;" />
 <br/>
 
 <!-- ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![sass](https://img.icons8.com/color/30/sass.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![TypeScript](https://img.icons8.com/color/30/typescript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![ReactJS](https://img.icons8.com/office/30/000000/react.png)![Redux](https://img.icons8.com/color/30/redux.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Git](https://img.icons8.com/color/30/git.png)![Figma](https://img.icons8.com/color/30/figma.png) -->
