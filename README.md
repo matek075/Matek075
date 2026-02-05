@@ -32,7 +32,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="nestJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055" style="padding-right:10px;" />
+<img align="left" alt="nestJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" style="padding-right:10px;" />
 <img align="left" alt="Typeorm" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2I5pXsb1_FJr3aS_8q71lpwYoVpR-_WGOQ&s" style="padding-right:10px;" />
 <img align="left" alt="Jest" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" style="padding-right:10px;" />
 <br/>
@@ -41,8 +41,5 @@
 <hr/>
 
 
-
-📈 my github stats <br>
-![Matek's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matek075&show_icons=true&hide=stars,contribs&theme=dracula&count_private=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matek075&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🙂 I'm glad you're visiting my GitHub profile. As a reward, I have a random joke for you. <br>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
